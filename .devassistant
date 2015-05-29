@@ -1,0 +1,12 @@
+dependencies:
+- rpm:
+  - perl
+- rpm:
+  - perl
+devassistant_version: 0.11.1
+original_kwargs:
+  github: caesarhao
+  name: /run/media/caesarhao/Document/perlws/DiffReport
+project_type:
+- perl
+- class
